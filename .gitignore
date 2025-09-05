@@ -1,1 +1,49 @@
+# Folders specific to this project
 CS 201/
+
+# Common IDEs
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# Mac OS
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+out/
+bin/
+target/
+!**/src/main/**/out/
+!**/src/main/**/bin/
+!**/src/main/**/target/
+!**/src/test/**/out/
+!**/src/test/**/bin/
+!**/src/test/**/target/
+
+# Python
+__pycache__/
+*.py[co]
+.env
+venv/
+
+# C/C++
+*.o
+*.a
+*.out
+*.exe
+build/
+
+# Web Development
+node_modules/
+dist/
